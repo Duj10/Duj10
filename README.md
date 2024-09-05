@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Duj10 and I'm a young, from France</p>
+<p align="left">My name is Duj10 and I'm a young developer, from France</p>
 
 ###
 
